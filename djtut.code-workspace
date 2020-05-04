@@ -1,0 +1,9 @@
+{
+	"folders": [{"path": "src"}],
+	"settings": {}	,
+	"python.linting.pylintArgs": ["--max-line-length=180"],
+	"python.formatting.autopep8Args": ["--max-line-length=180"],
+	"python.linting.flake8Args": ["--ignore=E24,W504", "--verbose"],
+	"python.linting.cornflakes": ["--ignore=E501", "--verbose"],
+	"cornflakes.linter.executablePath": "/home/mzamroz/.local/share/virtualenvs/try_djang-WB8wDY8x/bin/flake8"
+}
